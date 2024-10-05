@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakshep-goswami" alt="prakshep-goswami" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/Prakshep9876/" target="blank"><img src="https://img.shields.io/twitter/follow/goswamiprakshep?logo=twitter&style=for-the-badge" alt="goswamiprakshep" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/Prakshep9876/" target="blank"><img src="https://img.shields.io/twitter/follow/goswamiprakshep?logo=twitter&style=for-the-badge" alt="Prakshep9876" /></a> </p>
 
 - 🔭 I’m currently working on **Software Development**
 
-- 📝 I regularly write articles on [https://medium.com/@goswamiprakshep9876](https://medium.com/@goswamiprakshep9876)
+- 📝 I regularly write articles on [Medium](https://medium.com/@goswamiprakshep9876)
 
 - 💬 Ask me about **Computer Science , R&D , Programming**
 
