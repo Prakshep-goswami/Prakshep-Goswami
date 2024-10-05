@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Prakshep Goswami</h1>
+<h1 align="center">Hi 👋, I'm Prakshep Goswami </h1>
 <h3 align="center">A passionate Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakshep-goswami&label=Profile%20views&color=0e75b6&style=flat" alt="prakshep-goswami" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakshep-goswami" alt="prakshep-goswami" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/goswamiprakshep" target="blank"><img src="https://img.shields.io/twitter/follow/goswamiprakshep?logo=twitter&style=for-the-badge" alt="goswamiprakshep" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/Prakshep9876/" target="blank"><img src="https://img.shields.io/twitter/follow/goswamiprakshep?logo=twitter&style=for-the-badge" alt="goswamiprakshep" /></a> </p>
 
 - 🔭 I’m currently working on **Software Development**
 
 - 📝 I regularly write articles on [https://medium.com/@goswamiprakshep9876](https://medium.com/@goswamiprakshep9876)
 
-- 💬 Ask me about **R&D , Programming , Computer Science**
+- 💬 Ask me about **Computer Science , R&D , Programming**
 
 - 📫 How to reach me **prakshepgoswami@gmail.com**
 
@@ -26,7 +24,7 @@
 <a href="https://fb.com/prakshep.goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prakshep.goswami" height="30" width="40" /></a>
 <a href="https://instagram.com/prakshep_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakshep_goswami" height="30" width="40" /></a>
 <a href="https://medium.com/@goswamiprakshep9876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@goswamiprakshep9876" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/prakshep goswami iips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prakshep goswami iips" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Prakshep_Goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prakshep goswami iips" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prakshep_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakshep_goswami" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prakshep_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prakshep_goswami" height="30" width="40" /></a>
 </p>
