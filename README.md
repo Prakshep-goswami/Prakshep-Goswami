@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakshep Goswami </h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakshep-goswami" alt="prakshep-goswami" /></a> </p>
-
-<p align="left"> <a href="https://www.linkedin.com/in/Prakshep9876/" target="blank"><img src="https://img.shields.io/twitter/follow/goswamiprakshep?logo=twitter&style=for-the-badge" alt="Prakshep9876" /></a> </p>
-
 - 🔭 I’m currently working on **Software Development**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@goswamiprakshep9876)
@@ -12,6 +8,10 @@
 - 💬 Ask me about **Computer Science , R&D , Programming**
 
 - 📫 How to reach me **prakshepgoswami@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakshep-goswami" alt="prakshep-goswami" /></a> </p>
+
+<p align="left"> <a href="https://www.linkedin.com/in/Prakshep9876/" target="blank"><img src="https://img.shields.io/twitter/follow/goswamiprakshep?logo=twitter&style=for-the-badge" alt="Prakshep9876" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
