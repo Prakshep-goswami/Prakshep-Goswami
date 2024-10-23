@@ -25,7 +25,7 @@
 <a href="https://instagram.com/prakshep_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakshep_goswami" height="30" width="40" /></a>
 <a href="https://medium.com/@goswamiprakshep9876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@goswamiprakshep9876" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Prakshep_Goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prakshep goswami iips" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prakshep_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakshep_goswami" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prakshep_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakshep_goswami" height="100" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prakshep_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prakshep_goswami" height="30" width="40" /></a>
 </p>
 
