@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Software Development and learning analytics**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@goswamiprakshep9876)
+- 📝 I Sometimes write articles on [Medium](https://medium.com/@goswamiprakshep9876)
 
 - 💬 Ask me about **Computer Science, R&D, Programming and Algorithm's**
 
