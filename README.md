@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prakshep Goswami </h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-- 🔭 I’m currently working on **Software Development, learning analytics**
+- 🔭 I’m currently working on **Software Development and learning analytics**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@goswamiprakshep9876)
 
-- 💬 Ask me about **Computer Science, R&D, Programming, and Algorithm's**
+- 💬 Ask me about **Computer Science, R&D, Programming and Algorithm's**
 
 - 📫 How to reach me **prakshepgoswami@gmail.com**
 
