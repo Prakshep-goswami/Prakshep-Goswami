@@ -58,6 +58,7 @@
 </p>
 
 <p>
+  <h3 align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakshep-goswami&show_icons=true&locale=en&layout=compact" alt="prakshep-goswami" /><h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
