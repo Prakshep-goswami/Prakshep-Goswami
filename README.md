@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakshep Goswami </h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Profile%20Views-8412-blue" alt="profile-views" />
 </p>
 
