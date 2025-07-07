@@ -1,14 +1,6 @@
-<!-- 🌐 Professional GitHub Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prakshep-goswami/prakshep-goswami/main/banner.png" alt="Prakshep Goswami Banner" width="100%" />
-</p>
-
 <h2 align="center">Hi there, I'm <span style="color:#0ef;">Prakshep Goswami</span> 👋</h2>
 <p align="center"><i>AI Developer | Full Stack Engineer | Research Author</i></p>
-
 ---
-
-<!-- 🚀 About Me Section with Hacker GIF on the Right -->
 <table align="center">
   <tr>
     <td>
@@ -25,9 +17,7 @@
     </td>
   </tr>
 </table>
-
 ---
-
 ### 🤝 Connect with Me
 <p align="center">
   <a href="https://twitter.com/goswamiprakshep" target="_blank">
