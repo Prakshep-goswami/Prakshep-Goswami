@@ -1,21 +1,27 @@
+<!-- 🌐 Professional GitHub Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prakshep-goswami/prakshep-goswami/main/banner.png" alt="Prakshep Goswami Banner" width="100%" />
+</p>
+
 <h2 align="center">Hi there, I'm <span style="color:#0ef;">Prakshep Goswami</span> 👋</h2>
 <p align="center"><i>AI Developer | Full Stack Engineer | Research Author</i></p>
 
 ---
+
 <!-- 🚀 About Me Section with Hacker GIF on the Right -->
-<table>
+<table align="center">
   <tr>
     <td>
       <ul>
         <li>🧠 Passionate about Artificial Intelligence and Full Stack Development</li>
         <li>📝 Published Research in <a href="https://link.springer.com/chapter/10.1007/978-3-031-74443-3_42" target="_blank">Springer C3AI 2024</a></li>
-        <li>💬 I talk about algorithms, data science, and e-learning technologies</li>
+        <li>💭 I talk about algorithms, data science, and e-learning technologies</li>
         <li>🌾 Building AI Chatbots for smart farming & rural language support</li>
         <li>✍️ Writing at <a href="https://medium.com/@goswamiprakshep9876" target="_blank">Medium</a></li>
       </ul>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <img src="https://media.tenor.com/D90fcMv8SacAAAAM/hackerman-hacker.gif" alt="Hackerman GIF" width="120">
+      <img src="https://media.tenor.com/D90fcMv8SacAAAAM/hackerman-hacker.gif" alt="Hackerman GIF" width="140">
     </td>
   </tr>
 </table>
@@ -23,7 +29,6 @@
 ---
 
 ### 🤝 Connect with Me
-
 <p align="center">
   <a href="https://twitter.com/goswamiprakshep" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/X_logo_2023.svg" alt="X" width="36" height="36" />
@@ -61,7 +66,6 @@
 ---
 
 ### 🛠️ Languages & Tools
-
 <p align="center">
   <a href="https://www.cprogramming.com/" title="C" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /></a>
   <a href="https://cplusplus.com/" title="C++" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></a>
@@ -83,7 +87,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <table align="center">
   <tr>
     <td align="center">
@@ -103,9 +106,8 @@
 ---
 
 ### 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prakshep-goswami&theme=algolia&column=6&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=prakshep-goswami&theme=algolia&column=6&no-frame=true" />
 </p>
 
 ---
