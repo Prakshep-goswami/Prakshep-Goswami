@@ -1,28 +1,28 @@
+<!-- 👨‍💻 Animated Hacker Banner -->
 <p align="center">
-  <img src="https://your-image-url-here.png" alt="Prakshep Goswami Banner" />
+  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" alt="Hacker GIF Banner" width="800" />
 </p>
 
-<h2 align="center">Hi there, I'm <span style="color:#0ef;">Prakshep Goswami</span> 👨‍💻</h2>
-<p align="center"><i>AI Enthusiast | Full Stack Engineer | Researcher</i></p>
+<h2 align="center">Hi there, I'm <span style="color:#0ef;">Prakshep Goswami</span> 👋</h2>
+<p align="center"><i>AI Developer | Full Stack Engineer | Research Author</i></p>
 
 ---
 
 ### 🚀 About Me
-- 🔬 Research Contributor at C3AI London 2024  
-- 🧠 Passionate about AI, Algorithms, and Software Development  
-- 💡 Currently building an AI-based chatbot for crop infection detection  
-- ✍️ Tech Writer on [Medium](https://medium.com/@goswamiprakshep9876)  
-- 🛠️ Focus: Scalable architecture, Data Mining, Full-stack apps
+
+- 🧠 Passionate about Artificial Intelligence and Full Stack Development  
+- 📝 Published Research in [Springer C3AI 2024](https://link.springer.com/chapter/10.1007/978-3-031-74443-3_42)  
+- 💬 I talk about algorithms, data science, and e-learning technologies  
+- 🌾 Building AI Chatbots for smart farming & rural language support  
+- ✍️ Writing at [Medium](https://medium.com/@goswamiprakshep9876)
 
 ---
-
-### 🤝 Connect with Me
 
 ### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://twitter.com/goswamiprakshep" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" alt="X" width="36" height="36" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/X_logo_2023.svg" alt="X" width="36" height="36" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/prakshep9876" target="_blank">
@@ -59,53 +59,22 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://cplusplus.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle DB" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
-  </a>
+  <a href="https://www.cprogramming.com/" title="C" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /></a>
+  <a href="https://cplusplus.com/" title="C++" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></a>
+  <a href="https://www.python.org/" title="Python" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /></a>
+  <a href="https://www.java.com/" title="Java" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
+  <a href="https://www.w3.org/html/" title="HTML5" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/css/" title="CSS3" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /></a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" /></a>
+  <a href="https://nodejs.org/" title="Node.js" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="https://www.oracle.com/database/" title="Oracle DB" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" /></a>
+  <a href="https://www.docker.com/" title="Docker" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /></a>
+  <a href="https://aws.amazon.com/" title="AWS" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40" /></a>
+  <a href="https://www.linux.org/" title="Linux" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /></a>
 </p>
-
 
 ---
 
@@ -137,4 +106,4 @@
 
 ---
 
-> 🧠 _“Simplicity is the soul of efficiency.”_ – Austin Freeman
+> 🔍 _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
