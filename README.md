@@ -2,19 +2,21 @@
 <p align="center"><i>AI Developer | Full Stack Engineer | Research Author</i></p>
 
 ---
-
-### 🚀 About Me
-
-- 🧠 Passionate about Artificial Intelligence and Full Stack Development  
-- 📝 Published Research in [Springer C3AI 2024](https://link.springer.com/chapter/10.1007/978-3-031-74443-3_42)  
-- 💬 I talk about algorithms, data science, and e-learning technologies  
-- 🌾 Building AI Chatbots for smart farming & rural language support  
-- ✍️ Writing at [Medium](https://medium.com/@goswamiprakshep9876)
-
-<!-- 👨‍💻 Hacker GIF -->
-<p align="center">
-  <img src="https://media.tenor.com/D90fcMv8SacAAAAM/hackerman-hacker.gif" alt="Hackerman GIF" width="300" />
-</p>
+<!-- 🚀 About Me Section with Hacker GIF on Right -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div>
+    <ul>
+      <li>🧠 Passionate about Artificial Intelligence and Full Stack Development</li>
+      <li>📝 Published Research in <a href="https://link.springer.com/chapter/10.1007/978-3-031-74443-3_42" target="_blank">Springer C3AI 2024</a></li>
+      <li>💬 I talk about algorithms, data science, and e-learning technologies</li>
+      <li>🌾 Building AI Chatbots for smart farming & rural language support</li>
+      <li>✍️ Writing at <a href="https://medium.com/@goswamiprakshep9876" target="_blank">Medium</a></li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://media.tenor.com/D90fcMv8SacAAAAM/hackerman-hacker.gif" alt="Hackerman GIF" width="120" />
+  </div>
+</div>
 
 ---
 
