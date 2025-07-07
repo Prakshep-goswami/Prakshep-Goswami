@@ -16,58 +16,42 @@
 
 ---
 
-### 🌐 Online Presence
-
 ### 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/goswamiprakshep" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-    <span>Twitter: @goswamiprakshep</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" />
   </a>
-  <br/>
-
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/prakshep9876" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    <span>LinkedIn: Prakshep Goswami</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  <br/>
-
+  &nbsp;&nbsp;
   <a href="https://fb.com/prakshep.goswami" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-    <span>Facebook: prakshep.goswami</span>
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Facebook" width="40" height="40" />
   </a>
-  <br/>
-
+  &nbsp;&nbsp;
   <a href="https://instagram.com/prakshep_goswami" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    <span>Instagram: @prakshep_goswami</span>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" height="40" />
   </a>
-  <br/>
-
+  &nbsp;&nbsp;
   <a href="https://medium.com/@goswamiprakshep9876" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-    <span>Medium: @goswamiprakshep9876</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" width="40" height="40" />
   </a>
-  <br/>
-
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@Prakshep_Goswami" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-    <span>YouTube: @Prakshep_Goswami</span>
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40" height="40" />
   </a>
-  <br/>
-
+  &nbsp;&nbsp;
   <a href="https://www.leetcode.com/prakshep_goswami" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-    <span>LeetCode: prakshep_goswami</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />
   </a>
-  <br/>
-
+  &nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/prakshep_goswami" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-    <span>GeeksforGeeks: prakshep_goswami</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40" />
   </a>
 </p>
+
 
 
 ---
