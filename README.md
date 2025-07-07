@@ -1,8 +1,3 @@
-<!-- 🌐 Professional GitHub Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prakshep-goswami/prakshep-goswami/main/banner.png" alt="Prakshep Goswami Professional Banner" width="100%" />
-</p>
-
 <h2 align="center">Hi there, I'm <span style="color:#0ef;">Prakshep Goswami</span> 👋</h2>
 <p align="center"><i>AI Developer | Full Stack Engineer | Research Author</i></p>
 
@@ -15,6 +10,11 @@
 - 💬 I talk about algorithms, data science, and e-learning technologies  
 - 🌾 Building AI Chatbots for smart farming & rural language support  
 - ✍️ Writing at [Medium](https://medium.com/@goswamiprakshep9876)
+
+<!-- 👨‍💻 Hacker GIF -->
+<p align="center">
+  <img src="https://media.tenor.com/D90fcMv8SacAAAAM/hackerman-hacker.gif" alt="Hackerman GIF" width="300" />
+</p>
 
 ---
 
