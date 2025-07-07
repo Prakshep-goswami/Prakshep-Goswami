@@ -18,16 +18,59 @@
 
 ### 🌐 Online Presence
 
-<p align="center">
-  <a href="https://linkedin.com/in/prakshep9876"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@goswamiprakshep9876"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@Prakshep_Goswami"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="mailto:prakshepgoswami@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/goswamiprakshep" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <span>Twitter: @goswamiprakshep</span>
+  </a>
+  <br/>
+
+  <a href="https://linkedin.com/in/prakshep9876" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <span>LinkedIn: Prakshep Goswami</span>
+  </a>
+  <br/>
+
+  <a href="https://fb.com/prakshep.goswami" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <span>Facebook: prakshep.goswami</span>
+  </a>
+  <br/>
+
+  <a href="https://instagram.com/prakshep_goswami" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <span>Instagram: @prakshep_goswami</span>
+  </a>
+  <br/>
+
+  <a href="https://medium.com/@goswamiprakshep9876" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+    <span>Medium: @goswamiprakshep9876</span>
+  </a>
+  <br/>
+
+  <a href="https://www.youtube.com/@Prakshep_Goswami" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+    <span>YouTube: @Prakshep_Goswami</span>
+  </a>
+  <br/>
+
+  <a href="https://www.leetcode.com/prakshep_goswami" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <span>LeetCode: prakshep_goswami</span>
+  </a>
+  <br/>
+
+  <a href="https://auth.geeksforgeeks.org/user/prakshep_goswami" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+    <span>GeeksforGeeks: prakshep_goswami</span>
+  </a>
 </p>
 
----
 
-### 🛠️ Languages & Tools
+---
 
 ### 🛠️ Languages & Tools
 
