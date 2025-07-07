@@ -18,9 +18,11 @@
 
 ### 🤝 Connect with Me
 
+### 🤝 Connect with Me
+
 <p align="center">
   <a href="https://twitter.com/goswamiprakshep" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" alt="X" width="36" height="36" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/prakshep9876" target="_blank">
@@ -36,7 +38,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://medium.com/@goswamiprakshep9876" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@Prakshep_Goswami" target="_blank">
@@ -51,8 +53,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40" />
   </a>
 </p>
-
-
 
 ---
 
