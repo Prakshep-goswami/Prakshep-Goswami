@@ -1,6 +1,8 @@
 <h2 align="center">Hi there, I'm <span style="color:#0ef;">Prakshep Goswami</span> 👋</h2>
 <p align="center"><i>AI Developer | Full Stack Engineer | Research Author</i></p>
+
 ---
+
 <table align="center">
   <tr>
     <td>
@@ -17,7 +19,9 @@
     </td>
   </tr>
 </table>
+
 ---
+
 ### 🤝 Connect with Me
 <p align="center">
   <a href="https://twitter.com/goswamiprakshep" target="_blank">
