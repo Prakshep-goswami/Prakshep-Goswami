@@ -3,20 +3,19 @@
 
 ---
 <!-- 🚀 About Me Section with Hacker GIF on Right -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div>
-    <ul>
-      <li>🧠 Passionate about Artificial Intelligence and Full Stack Development</li>
-      <li>📝 Published Research in <a href="https://link.springer.com/chapter/10.1007/978-3-031-74443-3_42" target="_blank">Springer C3AI 2024</a></li>
-      <li>💬 I talk about algorithms, data science, and e-learning technologies</li>
-      <li>🌾 Building AI Chatbots for smart farming & rural language support</li>
-      <li>✍️ Writing at <a href="https://medium.com/@goswamiprakshep9876" target="_blank">Medium</a></li>
-    </ul>
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div style="flex: 1;">
+    <p>🧠 Passionate about Artificial Intelligence and Full Stack Development</p>
+    <p>📝 Published Research in <a href="https://link.springer.com/chapter/10.1007/978-3-031-74443-3_42" target="_blank">Springer C3AI 2024</a></p>
+    <p>💬 I talk about algorithms, data science, and e-learning technologies</p>
+    <p>🌾 Building AI Chatbots for smart farming & rural language support</p>
+    <p>✍️ Writing at <a href="https://medium.com/@goswamiprakshep9876" target="_blank">Medium</a></p>
   </div>
-  <div>
-    <img src="https://media.tenor.com/D90fcMv8SacAAAAM/hackerman-hacker.gif" alt="Hackerman GIF" width="120" />
+  <div style="margin-left: 20px;">
+    <img src="https://media.tenor.com/D90fcMv8SacAAAAM/hackerman-hacker.gif" alt="Hackerman GIF" width="100" />
   </div>
 </div>
+
 
 ---
 
