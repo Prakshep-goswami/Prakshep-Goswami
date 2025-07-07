@@ -1,6 +1,6 @@
-<!-- 👨‍💻 Animated Hacker Banner -->
+<!-- 🌐 Professional GitHub Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" alt="Hacker GIF Banner" width="800" />
+  <img src="https://raw.githubusercontent.com/prakshep-goswami/prakshep-goswami/main/banner.png" alt="Prakshep Goswami Professional Banner" width="100%" />
 </p>
 
 <h2 align="center">Hi there, I'm <span style="color:#0ef;">Prakshep Goswami</span> 👋</h2>
@@ -106,4 +106,4 @@
 
 ---
 
-> 🔍 _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
+> 💡 _“First, solve the problem. Then, write the code.”_ – John Johnson
